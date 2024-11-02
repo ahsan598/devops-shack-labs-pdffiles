@@ -46,10 +46,11 @@ git checkout -b new-branch
 git merge branch-name
 ```
 
-10. **git remote** - Manages set of tracked repositories. The first command shows the URLs that a repository is tracking, and the second command adds a new remote repository.
+10. **git remote** - Manages set of tracked repositories. The first command shows the URLs that a repository is tracking, and the second command adds a new remote repository, third command If we want to set or update the remote URL
 ```sh
 git remote -v
-git remote add origin https://github.com/username/repository.git
+git remote add origin <url>
+git remote set-url origin <new-url>
 ```
 
 11. **git pull** - Fetches from and integrates with another repository or a local branch. This command fetches and merges changes from the remote repository's main branch into the current branch.
