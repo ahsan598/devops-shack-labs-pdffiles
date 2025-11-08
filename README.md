@@ -9,4 +9,4 @@ Useful for learners, job seekers, and working DevOps engineers to understand ind
 
 ---
 
-credits: [@devops-sh](https://github.com/jaiswaladi246)
+credits: [@devops-shack](https://github.com/jaiswaladi246)
