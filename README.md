@@ -5,3 +5,8 @@ This repository contains a curated collection of production-grade DevOps hands-o
 These resources cover real-world implementations, covering CI/CD pipelines, container orchestration, infrastructure automation, cloud deployments, monitoring, logging, and more.
 
 Useful for learners, job seekers, and working DevOps engineers to understand industry-standard workflows and best practices.
+
+
+---
+
+credits: [@devops-sh](https://github.com/jaiswaladi246)
